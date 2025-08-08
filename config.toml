@@ -1,8 +1,8 @@
 baseURL = ""
 languageCode = "en"
-title = "ARISE"
+title = "UIComms UK | Voice Comms Control Simulation"
 
 [params]
-  author = "makerarts"
+  author = "UIComms LTD"
 
 disableKinds = ["taxonomy"]
