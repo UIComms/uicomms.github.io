@@ -1,8 +1,0 @@
-baseURL = ""
-languageCode = "en"
-title = "ARISE"
-
-[params]
-  author = "makerarts"
-
-disableKinds = ["taxonomy"]
