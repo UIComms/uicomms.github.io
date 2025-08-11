@@ -1,126 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UIComms UK | Voice Comms Control Simulation</title><link>/</link><description>Recent content on UIComms UK | Voice Comms Control Simulation</description><generator>Hugo</generator><language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/old_about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/old_about/</guid><description>&lt;h1 id="about-us">About us&lt;/h1>
-&lt;h3 id="maker-arts-cic-is-a-community-interest-company-based-in-the-heart-of-paignton-torbay">Maker Arts CIC is a community interest company based in the heart of Paignton, Torbay.&lt;/h3>
-&lt;p>We offer small groups of students aged 9-16 bespoke courses in mindfulness, employability, art and science.&lt;/p>
-&lt;p>Our aims:&lt;/p>
-&lt;p>To develop &lt;strong>confidence&lt;/strong>&lt;/p>
-&lt;p>Facilitate &lt;strong>well-being&lt;/strong>&lt;/p>
-&lt;p>Encourage &lt;strong>aspirations&lt;/strong>&lt;/p>
-&lt;p>We are particularly interested in supporting those that are anxious, phobic or otherwise disadvantaged.&lt;/p>
-&lt;p>Our end goal is to encourage these students back into the classrom.&lt;/p>
-&lt;h2 id="meet-the-team">Meet the team&lt;/h2>
-&lt;h3 id="sue">Sue&lt;/h3>
-&lt;p>Something about sue&lt;/p></description></item><item><title>ARISE Awards</title><link>/awards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/awards/</guid><description>&lt;!DOCTYPE html>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UIComms | Voice Comms Control Simulation</title><link>/</link><description>Recent content on UIComms | Voice Comms Control Simulation</description><generator>Hugo</generator><language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;!DOCTYPE html>
 &lt;html>
 &lt;body>
- &lt;div>
- &lt;img src="/award_but.png">
- &lt;/div>
-&lt;div class="awards_bg"> 
- &lt;h3 class="awards_txt">Simply upload your submition form and a photo of your artwork and you will receive a bespoke medal and certificate for each challenge.&lt;/h3>
-&lt;/div>
-&lt;div>
- &lt;h2>Arise pieces of art work!&lt;/h2>
- &lt;h3>Some of our amazing submissions&lt;/h3>
- &lt;div class="align_center">
- &lt;div class="gallery"> 
- &lt;a target="_blank" href="/experience.jpg">
- &lt;img src="/experience.jpg" width="600" height="400">
- &lt;/a>
- &lt;div class="desc">by Alex in Paignton age 30&lt;/div>
- &lt;/div>
- &lt;div class="gallery"> 
- &lt;a target="_blank" href="/experience.jpg">
- &lt;img src="/experience.jpg" width="600" height="400">
- &lt;/a>
- &lt;div class="desc">by Alex in Paignton age 30&lt;/div>
- &lt;/div>
- &lt;div class="gallery"> 
- &lt;a target="_blank" href="/experience.jpg">
- &lt;img src="/experience.jpg" width="600" height="400">
- &lt;/a>
- &lt;div class="desc">by Alex in Paignton age 30&lt;/div>
- &lt;/div>
- &lt;div class="gallery"> 
- &lt;a target="_blank" href="/experience.jpg">
- &lt;img src="/experience.jpg" width="600" height="400">
- &lt;/a>
- &lt;div class="desc">by Alex in Paignton age 30&lt;/div>
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;div class="grid">
 
-&lt;/body>
-&lt;/html></description></item><item><title>ARISE Older</title><link>/older/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/older/</guid><description>&lt;!DOCTYPE html>
-&lt;html>
-&lt;body>
- &lt;div>
- &lt;a href="/challenges">&lt;img src="/challenge_but.png">&lt;/a>
- &lt;/div>
- &lt;div class="grid">
- &lt;div>
- &lt;a href="">&lt;img src="/older_bronze.png">&lt;/a>
- &lt;/div>
- &lt;div>
- &lt;a href="">&lt;img src="/older_silver.png">&lt;/a>
- &lt;/div>
- &lt;div>
- &lt;a href="">&lt;img src="/older_gold.png">&lt;/a>
- &lt;/div>
- &lt;div>
- &lt;a href="">&lt;img src="/older_plat.png">&lt;/a>
- &lt;/div>
- &lt;/div>
-&lt;/body>
-&lt;/html></description></item><item><title>ARISE Younger</title><link>/younger/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/younger/</guid><description>&lt;!DOCTYPE html>
-&lt;html>
-&lt;body>
- &lt;div>
- &lt;a href="/challenges">&lt;img src="/challenge_but.png">&lt;/a>
- &lt;/div>
- &lt;div class="grid">
- &lt;div>
- &lt;a href="">&lt;img src="/younger_bronze.png">&lt;/a>
- &lt;/div>
- &lt;div>
- &lt;a href="">&lt;img src="/younger_silver.png">&lt;/a>
- &lt;/div>
- &lt;div>
- &lt;a href="">&lt;img src="/younger_gold.png">&lt;/a>
- &lt;/div>
- &lt;div>
- &lt;a href="">&lt;img src="/younger_plat.png">&lt;/a>
- &lt;/div>
- &lt;/div>
-&lt;/body>
-&lt;/html></description></item><item><title>Contact</title><link>/old_contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/old_contact/</guid><description>&lt;h1 id="contact">Contact&lt;/h1>
-&lt;h3 id="phone">Phone&lt;/h3>
-&lt;p>Sue - 07858623525&lt;/p>
-&lt;h3 id="email">Email&lt;/h3>
-&lt;p>&lt;a href="mailto:sue@makerarts.co.uk">sue@makerarts.co.uk&lt;/a>&lt;/p>
-&lt;h3 id="find-us">Find us&lt;/h3>
-&lt;!-- raw HTML omitted --></description></item><item><title>Courses</title><link>/challenges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/challenges/</guid><description>&lt;!DOCTYPE html>
-&lt;html>
-&lt;body>
- &lt;div>
- &lt;img src="/challenge_but.png">
- &lt;/div>
+ &lt;a href="#id01">
+ &lt;div class="modal-style">
+ &lt;h3 style="padding: 10px;">Fully-scalable all-in-one solution&lt;/h3>
+ &lt;img src="/expand.png" style="height: 50px;width: 50px; border-radius: 15px; padding: 5px; object-fit: cover;">
+ &lt;/div> 
+ &lt;/a>
+ &lt;div id="id01" class="modal">
+ &lt;div class="modal-dialog">
+ &lt;div class="modal-content">
+ &lt;header class="container">
+ &lt;a href="#" class="closebtn">close&lt;/a>
+ &lt;/header>
  &lt;br>
- &lt;div class="column3">
- &lt;div class="content_left3">
- &lt;a href="/younger">&lt;img src="/young_but.png">&lt;/a>
- &lt;/div>
- &lt;div class="content_right3">
- &lt;a href="/older">&lt;img src="/old_but.png">&lt;/a>
+ &lt;div class="container">
+ &lt;p>Our system consists of a streamlined product ecosystem that integrates high quality audio and control requirements into state-of-the-art simulators. The core processor handles all audio and control UI in one package with no compromise in capability, while providing cost-effective scalability from small to very large multi-seat configurations.&lt;/p>
  &lt;/div>
  &lt;/div>
-&lt;/body>
-&lt;/html></description></item><item><title>Courses</title><link>/old_courses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/old_courses/</guid><description>&lt;h1 id="courses">Courses&lt;/h1>
-&lt;h3 id="arts-award">Arts Award&lt;/h3>
-&lt;p>We offer three &lt;a href="https://www.artsaward.org.uk/">Arts Awards&lt;/a> from Trinity College London. Arts Award inspires young people to grow their arts and leadership talents: it’s creative, valuable and accessible.&lt;/p>
-&lt;p>&lt;strong>Qualifications&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>Discover&lt;/strong>: An introductory award aimed at young people under 25&lt;/p>
-&lt;p>&lt;strong>Bronze&lt;/strong>: The Bronze Arts Award is a Level 1 qualification on the Regulated Qualifications Framework (RQF) and is open to young people aged 11 to 25.&lt;/p>
-&lt;p>&lt;strong>Silver&lt;/strong>: The Silver Arts Award is a Level 2 qualification on the Regulated Qualifications Framework (RQF) and is designed for ages 14 and above, but is open to young people aged 11 to 25.&lt;/p></description></item><item><title>Information</title><link>/info/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/info/</guid><description>&lt;!DOCTYPE html>
+ &lt;/div>
+ &lt;/div>
+
+ &lt;a href="#id02">
+ &lt;div class="modal-style">
+ &lt;h3 style="padding: 10px;">High quality, ultra-low latency audio&lt;/h3>
+ &lt;img src="/audio.png" style="height: 50px;width: 50px; border-radius: 15px; padding: 5px; object-fit: cover;">
+ &lt;/div> 
+ &lt;/a>
+ &lt;div id="id02" class="modal">
+ &lt;div class="modal-dialog">
+ &lt;div class="modal-content">
+ &lt;header class="container">
+ &lt;a href="#" class="closebtn">close&lt;/a>
+ &lt;/header>
+ &lt;br>
+ &lt;div class="container">
+ &lt;p>Leveraging innovative FPGA technology brings a new era of 96kHZ sample rate audio processing, while achieving 0.7ms latency from input to output socket.&lt;/p></description></item><item><title>Information</title><link>/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/contact/</guid><description>&lt;!DOCTYPE html>
 &lt;html>
 &lt;body>
  &lt;div>
@@ -135,81 +52,6 @@
  &lt;div>
  &lt;h2 class="download_title">Download submission form: &lt;a class="file_download" target="_blank" href="/experience.jpg" download="/experience.jpg">Submission form&lt;img src="/download_icon.png">&lt;/a>&lt;/h2>
  &lt;h2 class="download_title">Download guidelines and rules: &lt;a class="file_download" target="_blank" href="/experience.jpg" download="/experience.jpg">Guidelines and rules&lt;img src="/download_icon.png">&lt;/a>&lt;/h2>
- &lt;/div>
-&lt;/body>
-&lt;/html></description></item><item><title>Privison</title><link>/provision/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/provision/</guid><description>&lt;body>
-&lt;h1>Our Provisions&lt;/h1>
-&lt;br>
-&lt;div class="three-columns-1" style="column-gap: 40px; height: 100%;">
- &lt;div class="three-columns-1_left">
- &lt;h3>Employability Programme&lt;/h3>
- &lt;br>
- &lt;img src="/experience.jpg" style="height: 150px;width: 250px; border-radius: 15px; padding: 5px; object-fit: cover;">
- &lt;br>
- &lt;p style="text-align: left;">
- The next steps into further education or careers can be daunting. Aimed at those in upper secondary school our bespoke employability programme encouraged young people to research job opportunities, try out ‘simulated work’ roles in our purpose build work environments and well as out in our community. In addition to CV writing, interview skills all delivered in a fun, engaging and creative way whilst working towards gaining qualifications.
- &lt;/p></description></item><item><title>Studios</title><link>/old_studios/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/old_studios/</guid><description>&lt;h1 id="studios">Studios&lt;/h1>
-&lt;p>We have dedicated facilities for everything we do.&lt;/p>
-&lt;h3 id="art-studio">Art Studio&lt;/h3>
-&lt;p>C:\Users\Alex.Skinner\Documents\GitHub\hugo-learn-blog-template\assets\sass\images\ART.jpg&lt;/p>
-&lt;h3 id="the-lab">The Lab&lt;/h3>
-&lt;p>Pic&lt;/p>
-&lt;h3 id="stem-studio">STEM Studio&lt;/h3>
-&lt;p>Pic&lt;/p>
-&lt;h3 id="maker-studio">Maker Studio&lt;/h3>
-&lt;p>Pic&lt;/p></description></item><item><title>What Is ARISE?</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;!DOCTYPE html>
-&lt;html>
-&lt;body>
- &lt;div>
- &lt;img src="/what_arise_but.png">
- &lt;h2>ARISE means Artistic Recognition for Inpiring Success and Excellence&lt;/h2>
- &lt;h3>- we're talking about you!&lt;/h3>
- &lt;br>
- &lt;/div>
- &lt;div class="column">
- &lt;div class="content_left">
- &lt;img src="/about_img.png">
- &lt;/div>
- &lt;div class="content_right">
- &lt;h3>We are so excited to join you in your creative journey and want to celebrate your wonderful work with the recognition you deserve.&lt;/h3>
- &lt;br>
- &lt;h3>ARISE is the flagship programme of Maker Arts CIC and is designed for creative people to experience and apply themselves to different projects and be rewarded for their efforts and help charitable causes.&lt;/h3>
- &lt;/div>
- &lt;/div>
- &lt;div>
- &lt;h1>Achievement award scheme&lt;/h1>
- &lt;/div>
- &lt;div class="column2">
- &lt;div class="content_left2">
- &lt;img src="/about_img2.png" width="500px">
- &lt;/div>
- &lt;div class="content_right2">
- &lt;h2>There are four challenges&lt;/h2>
- &lt;h3>
- &lt;li>&lt;strong style="color: #ac7624;">Bronze&lt;/strong> - Identity&lt;/li>
- &lt;li>&lt;strong style="color:rgb(143, 143, 143);">Silver&lt;/strong> - The Wonder of Nature&lt;/li>
- &lt;li>&lt;strong style="color:rgb(199, 169, 0);">Gold&lt;/strong> - Connection&lt;/li> 
- &lt;li>&lt;strong style="color:rgb(75, 75, 75);">Platinum&lt;/strong> - It’s so Mystical!&lt;/li>
- &lt;/h3>
- &lt;br>
- &lt;h4>You can complete just one, or all four challenges in a time frame that suits you. Create a piece of art, it can be a drawing, painting, made with clay, a sand drawing, pretty much anything that you find creative.&lt;/h4>
- &lt;br>
- &lt;h4>Find the submission criteria and guidelines at the back of this book and upload your work, sit back and wait for your very special reward in the mail!&lt;/h4>
- &lt;/div>
- &lt;/div>
-&lt;/body>
-&lt;/html></description></item><item><title>What You Can Do?</title><link>/how/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/how/</guid><description>&lt;!DOCTYPE html>
-&lt;html>
-&lt;body>
- &lt;div>
- &lt;img src="/what_do_but.png">
- &lt;/div>
- &lt;div>
- &lt;h2>We think art can come in so many forms and hope you express yourself in any way you want!&lt;/h3>
- &lt;h3>Here are a few ideas to get you started:&lt;/h4>
- &lt;/div>
- &lt;div> 
- &lt;img src="/how_img.png">
  &lt;/div>
 &lt;/body>
 &lt;/html></description></item></channel></rss>
