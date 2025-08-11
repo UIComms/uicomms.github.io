@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en"
-title = "UIComms UK | Voice Comms Control Simulation"
+title = "UIComms | Voice Comms Control Simulation"
 
 [params]
   author = "UIComms LTD"
