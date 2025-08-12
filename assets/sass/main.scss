@@ -22,6 +22,12 @@ html, body {
 
 }
 
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
 body {
   background-image: url(/mountain.png);
   background-repeat: no-repeat;
@@ -78,7 +84,7 @@ a:hover {
   /*h1 {background-color: #c9c8c8;} 
   h1 {padding: 40px;}
   h1 {border-radius: 20px;}*/
-  h2 {padding-top: 20px;}
+  h2 {padding-top: 20px;font-weight: 400;}
   h1 {margin: 30px; padding:20px; background-color: #a55eec; border-radius: 15px; border: 0px #000 ;}
 }
 
@@ -98,6 +104,7 @@ a:hover {
 
 .main-content {
   flex: 1;
+  padding-top: 100px;
 }
 
 //.dark-blue {
@@ -143,9 +150,9 @@ a:hover {
 }
 
 .line {
-  border-left: 1px solid #000;
+  border-left: 1.5px solid #000;
   height: 40px;
-  margin-top: 10px;
+  margin-top: 15px;
 }
 
 .home_but {
@@ -327,12 +334,13 @@ li {
 
 .modal-style {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  background-color: #ffffff88;
+  background-color: #ffffffbd;
   border-radius: 15px;
   height: 120px;
   width: 250px;
   align-self: center;
   margin: 10px;
+  color:#000;
 }
 
 /* Display the modal when targeted */
@@ -375,6 +383,10 @@ li {
   font-size: 15px;
   font-weight: bold;
   color: #000000;
+  border: 1px solid #777777;
+  background-color: #e7e7e7;
+  padding: 2px;
+  border-radius: 5px;
 }
 
 .closebtn:hover,
@@ -421,7 +433,7 @@ li {
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
-  background-color: #ffffff07;
+  background-color: #ffffffbb;
   //background-image: linear-gradient(rgba(255, 255, 255, 0),rgb(255, 255, 255), rgb(72, 97, 117));
   //border-bottom: 3px ridge #1C1C1C;
 
