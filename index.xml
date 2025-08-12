@@ -40,18 +40,17 @@
  &lt;p>Leveraging innovative FPGA technology brings a new era of 96kHZ sample rate audio processing, while achieving 0.7ms latency from input to output socket.&lt;/p></description></item><item><title>Information</title><link>/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/contact/</guid><description>&lt;!DOCTYPE html>
 &lt;html>
 &lt;body>
+ &lt;div class="contact-bg">
+ &lt;h1>Contact us&lt;/h1>
  &lt;div>
- &lt;img src="/info_but.png">
- &lt;/div>
- &lt;div>
- &lt;h2>Cost&lt;/h2>
- &lt;h3>The cost of each challenge is £15 excluding postage and packaging.&lt;/h3>
+ &lt;h3>Our home is on the Devonshire coast of the United Kingdom.&lt;/h3>
  &lt;br>
- &lt;h3>You can download each booklet free of charge to print at home, or you can purchase a printed booklet to display your artwork and certificates for £5 plus postage and packaging.&lt;/h3>
+ &lt;h3>&lt;strong>Get in touch to explore how we can help your project succeed.&lt;/strong>&lt;/h3>
  &lt;/div>
- &lt;div>
- &lt;h2 class="download_title">Download submission form: &lt;a class="file_download" target="_blank" href="/experience.jpg" download="/experience.jpg">Submission form&lt;img src="/download_icon.png">&lt;/a>&lt;/h2>
- &lt;h2 class="download_title">Download guidelines and rules: &lt;a class="file_download" target="_blank" href="/experience.jpg" download="/experience.jpg">Guidelines and rules&lt;img src="/download_icon.png">&lt;/a>&lt;/h2>
+ &lt;br>
+ &lt;div class="email">
+ &lt;img src="/mail.png" style="padding: 10px;">&lt;a href="mailto:info@uicomms.com" style="color: black;">info@uicomms.com&lt;/a>
+ &lt;/div>
  &lt;/div>
 &lt;/body>
 &lt;/html></description></item></channel></rss>
